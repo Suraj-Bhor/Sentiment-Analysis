@@ -5,4 +5,4 @@ Imdb has released a database of 50,000 movie reviews classified in two categorie
 
 The dataset will be downloaded automatically if not present on your disk.
 
-Training should take ~20min. Accuracy should be ~87%.
+Training should take ~20min. Accuracy should be ~88%.
